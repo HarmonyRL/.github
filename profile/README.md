@@ -10,5 +10,7 @@ are on [Hugging Face](https://huggingface.co/collections/CloudHolic/harmonyrl).
 
 ## Repositories
 
+- [**Research**](https://github.com/HarmonyRL/Research): how the models were made, with the
+  data preparation, training, evaluation, and the results.
 - [**HarmonyRL**](https://github.com/HarmonyRL/HarmonyRL): Python library that harmonizes lead
   sheets from MusicXML and MIDI files with the models.
